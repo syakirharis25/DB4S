@@ -4,8 +4,9 @@ My works related to DB Browser for SQLite (DB4S), a high quality, visual, open s
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [DB4S shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -34,9 +35,13 @@ DB Browser for SQLite official website : https://sqlitebrowser.org/ <br />
 
 **_DB4S related articles_** <br />
 What is CRUD? by codecademy : https://www.codecademy.com/articles/what-is-crud <br />
- 
+
+<a name="shortcuts"></a>
+## 3. DB4S shortcuts.
+**[Ctrl ]** + **[ W ]** : close database
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/DB4S.git
@@ -46,7 +51,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
