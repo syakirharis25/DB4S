@@ -39,6 +39,7 @@ What is CRUD? by codecademy : https://www.codecademy.com/articles/what-is-crud <
 <a name="shortcuts"></a>
 ## 3. DB4S shortcuts.
 **[Ctrl ]** + **[ W ]** : close database
+**[Ctrl ]** + **[ R ]** : run the SQL command
 
 <a name="github"></a>
 ## 4. GitHub notes.
