@@ -31,6 +31,9 @@ Controls and wizards are available for users to:
 <a name="references"></a>
 ## 2. Official references websites. 
 DB Browser for SQLite official website : https://sqlitebrowser.org/ <br />
+
+**_DB4S related articles_** <br />
+What is CRUD? by codecademy : https://www.codecademy.com/articles/what-is-crud <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
